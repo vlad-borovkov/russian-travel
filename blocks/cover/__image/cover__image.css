@@ -1,0 +1,8 @@
+.cover__image {
+    position: absolute;
+    left: 0;
+    top: 0;
+    max-width: 1184px;
+    min-width: 300px;
+    opacity: 0.3;    
+}
