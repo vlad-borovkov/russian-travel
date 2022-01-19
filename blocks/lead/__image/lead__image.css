@@ -1,6 +1,6 @@
 .lead__image {
-    width: 984px;
-    height: 615px;
-    margin: 0;
-    position: relative;
+    width: 80%;
+    padding-bottom: 50%;
+    background-size: cover;
+    background-position: center;
 }

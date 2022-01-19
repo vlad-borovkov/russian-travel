@@ -11,12 +11,14 @@
     color: white;
     letter-spacing: 0em;
     text-align: right;
+    padding-top: 15px;
     
 }
 
 .header__menu_link:nth-of-type(2n) {
    
     margin-right: 0px;
+    padding-top: 15px;
     
 }
 
