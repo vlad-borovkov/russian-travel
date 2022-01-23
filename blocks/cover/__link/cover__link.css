@@ -1,3 +1,25 @@
+.cover__link {
+   display: block;
+   grid-area: image;
+   grid-column-start: 1;
+   grid-column-end: 4;
+   grid-row-start: 1;
+   grid-row-start: 4;
+   flex-direction: column;
+   align-content: center;
+   justify-content: center;
+   align-items: center;
+}
+
+
 .cover__link:hover {
-   opacity: 0.8;
+   opacity: 0.3;
+}
+
+@media screen and (max-width: 767px) and (min-width: 320px) {
+   .cover__link {
+       
+       max-width: 100%;
+   
+   }
 }

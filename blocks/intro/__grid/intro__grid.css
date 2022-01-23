@@ -1,0 +1,7 @@
+.intro__grid {
+    display: grid;
+    max-width: 80%;
+    grid-template-columns: max-content;
+    grid-template-rows: max-content auto max-content;
+
+}

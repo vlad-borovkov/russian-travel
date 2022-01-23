@@ -7,3 +7,12 @@
     text-align: right;
     color: #FFFFFF;
 }
+
+@media screen and (max-width: 425px) and (min-width: 320px) {
+    .footer__copyright {
+        
+    margin-left: 18px;
+    margin-top: 48px;
+    font-size: 14px;
+    line-height: 14px;
+    }
