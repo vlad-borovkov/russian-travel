@@ -1,15 +1,13 @@
 .page {
-    
     background-color: #2A2C2F;
     max-width: 100%;
     margin: auto;
     -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale; 
+    -moz-osx-font-smoothing: grayscale;
     -webkit-text-size-adjust: 100%;
     -ms-text-size-adjust: 100%;
     -moz-text-size-adjust: 100%;     
 }
-
 
 @font-face {
     font-family: 'Inter var';
