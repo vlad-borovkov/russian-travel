@@ -19,11 +19,11 @@
 }
 
 @media screen and (max-width: 425px) and (min-width: 320px) {
-.footer__link:first-of-type {
-    margin-left: 16px;
-    margin-top: 0;
+    .footer__link:first-of-type {
+        margin-left: 16px;
+        margin-top: 0;
+    }
 }
-
 
 
 @media screen and (max-width: 425px) and (min-width: 320px) {
