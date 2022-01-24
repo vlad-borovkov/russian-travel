@@ -24,7 +24,7 @@
 @media screen and (max-width: 1024px) and (min-width: 769px) {
     .intro {
         
-        max-width: 100%;
+        max-width: 90%;
         
     }
 }
@@ -32,7 +32,7 @@
 @media screen and (max-width: 768px) and (min-width: 320px) {
     .intro {
         
-        max-width: 100%;
+        max-width: 90%;
     
     }
 }

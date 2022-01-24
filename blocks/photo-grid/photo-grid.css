@@ -17,6 +17,7 @@
         grid-template-rows: repeat(4, fit-content(225px));
         gap: 14px;
         row-gap: 14px;
+        max-width: 95%;
         
     }
 }
@@ -28,6 +29,7 @@
         grid-template-rows: repeat(6, fit-content(264px));
         gap: 16px;
         row-gap: 16px;
+        max-width: 95%;
         
     }
 }
@@ -38,6 +40,7 @@
         grid-template-columns: repeat(auto-fill, minmax(288px, 1fr));
         grid-template-rows: repeat(12, fit-content(216px));
         row-gap: 12px;
+        max-width: 95%;
         
     }
 }
