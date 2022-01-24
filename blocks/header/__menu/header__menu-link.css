@@ -1,4 +1,4 @@
-.header__menu_link {
+.header__menu-link {
     position: relative;
     display: block;
     font-family: Inter;
@@ -15,14 +15,14 @@
     
 }
 
-.header__menu_link:nth-of-type(2n) {
+.header__menu-link:nth-of-type(2n) {
    
     margin-right: 0px;
     padding-top: 15px;
     
 }
 
-.header__menu_link:hover {
+.header__menu-link:hover {
    
     text-decoration: underline;
     
