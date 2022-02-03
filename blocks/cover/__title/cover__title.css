@@ -7,8 +7,7 @@
     grid-row-start: 2;
     margin: 0;
     max-width: 550px;
-    max-height: 152px;
-    font-family: Inter;
+    font-family: Inter, Arial, sans-serif;
     font-style: normal;
     font-weight: 900;
     font-size: 72px;
@@ -20,14 +19,21 @@
    
 }
 
+@media screen and (max-width: 800px) and (min-width: 768px) {
+    .cover__title {
+        
+        font-size: 72px;
+    
+    }
+ }
+
 @media screen and (max-width: 767px) and (min-width: 320px) {
     .cover__title {
         
-    
-    font-family: Inter;
+    font-family: Inter, Arial, sans-serif;
     font-style: normal;
     font-weight: 900;
-    font-size: 29px;
+    font-size: 32px;
     line-height: 35px;
     text-align: center;
     color: #FFFFFF;
@@ -37,10 +43,3 @@
     }
  }
 
- @media screen and (max-width: 800px) and (min-width: 768px) {
-    .cover__title {
-        
-        font-size: 69px;
-
-    }
- }

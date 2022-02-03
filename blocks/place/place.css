@@ -10,10 +10,16 @@
     "image paragraphs";
 }
 .place:first-child {
-    margin-top: 92px;
+    margin-top: 0px;
 }
 
-@media screen and (max-width: 1280px) and (min-width: 1024px) {
+@media screen and (max-width: 1280px) and (min-width: 1023px) {
+    .place {
+        column-gap: 40px;
+    }
+}
+
+@media screen and (max-width: 1024px) and (min-width: 767px) {
     .place {
         
         column-gap: 32px;
@@ -21,7 +27,7 @@
     }
 }
 
-@media screen and (max-width: 1023px) and (min-width: 768px) {
+@media screen and (max-width: 768px) and (min-width: 624px) {
     .place {
         
         column-gap: 28px;

@@ -1,7 +1,7 @@
 .footer__link {
     margin: 0;
-    margin-left: 18px;
-    font-family: Inter;
+    margin-right: 18px;
+    font-family: Inter, Arial, sans-serif;
     font-style: normal;
     font-weight: normal;
     font-size: 16px;
@@ -14,22 +14,12 @@
     opacity: 0.8;
 }
 
-.footer__link:first-of-type {
-    margin-left: 0;
-}
 
-@media screen and (max-width: 425px) and (min-width: 320px) {
-    .footer__link:first-of-type {
-        margin-left: 16px;
-        margin-top: 0;
-    }
-}
-
-@media screen and (max-width: 425px) and (min-width: 320px) {
+@media screen and (max-width: 558px) and (min-width: 320px) {
     .footer__link {
         margin-top: 32px;
         margin-left: 16px;
-        font-family: Inter;
+        font-family: Inter, Arial, sans-serif;
         font-style: normal;
         font-weight: normal;
         font-size: 24px;

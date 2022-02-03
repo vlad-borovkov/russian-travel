@@ -13,7 +13,7 @@
 
 
 .cover__link:hover {
-   opacity: 0.3;
+   opacity: 0.8;
 }
 
 @media screen and (max-width: 767px) and (min-width: 320px) {
