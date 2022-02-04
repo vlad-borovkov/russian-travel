@@ -11,6 +11,16 @@
    align-items: center;
 }
 
+.cover__link::after {
+   position: absolute;
+   z-index: 2;
+   left: 0;
+   top: 0;
+   background-color: #2A2C2F;
+   max-width: 100%;
+   opacity: 0.3;
+   object-fit: cover; 
+}
 
 .cover__link:hover {
    opacity: 0.8;

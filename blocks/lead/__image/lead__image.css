@@ -4,10 +4,10 @@
     grid-template-rows: repeat(2, minmax(min-content, max-content));
 }
 
-@media screen and (max-width: 1440px) and (min-width: 1281px) {
+@media screen and (min-width: 1281px) {
     .lead__image {
         
-        max-width: 1135px;
+        max-width: 984px;
         
     }
 }

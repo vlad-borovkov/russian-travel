@@ -15,14 +15,16 @@
 }
 
 
-@media screen and (max-width: 558px) and (min-width: 320px) {
+@media screen and (max-width: 623px) and (min-width: 320px) {
     .footer__link {
-        margin-top: 32px;
-        margin-left: 16px;
+
+        display: block;
         font-family: Inter, Arial, sans-serif;
         font-style: normal;
         font-weight: normal;
         font-size: 24px;
-        line-height: 24px;
+        margin: 0;
+        margin-bottom: 32px;
+        
     }
 }

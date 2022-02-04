@@ -2,7 +2,9 @@
     left: 0;
     top: 0;
     max-width: 100%;
-    opacity: 0.3;
     object-fit: cover; 
+    z-index: 0;
 }
+
+
 
