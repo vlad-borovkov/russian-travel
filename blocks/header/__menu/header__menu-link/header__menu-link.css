@@ -11,16 +11,14 @@
     letter-spacing: 0em;
     text-align: right;
     padding-top: 15px;
-    text-decoration: underline;
-    
+    text-decoration: none;
 }
 
 .header__menu-link:nth-of-type(2n) {
    
     margin-right: 0px;
     padding-top: 15px;
-    text-decoration: none;
-    
+     
 }
 
 .header__menu-link:hover {

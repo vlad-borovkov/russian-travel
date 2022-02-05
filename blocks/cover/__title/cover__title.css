@@ -1,10 +1,4 @@
 .cover__title {
-
-    grid-area: title;
-    grid-column-start: 2;
-    grid-column-end: 3;
-    grid-row-start: 1;
-    grid-row-start: 2;
     margin: 0;
     max-width: 550px;
     font-family: Inter, Arial, sans-serif;
@@ -14,10 +8,8 @@
     line-height: 76px;
     text-align: center;
     color: #FFFFFF;
-    align-self: self-end;
-    z-index: 2;
-   
 }
+
 
 @media screen and (max-width: 800px) and (min-width: 768px) {
     .cover__title {
@@ -29,17 +21,11 @@
 
 @media screen and (max-width: 767px) and (min-width: 320px) {
     .cover__title {
-        
-    font-family: Inter, Arial, sans-serif;
-    font-style: normal;
-    font-weight: 900;
+
     font-size: 32px;
     line-height: 35px;
-    text-align: center;
-    color: #FFFFFF;
-    align-self: self-end;
-    z-index: 2;
     max-width: 240px;
     }
  }
 
+*/

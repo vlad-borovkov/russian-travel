@@ -30,7 +30,7 @@
     
 }
 
-@media screen  and (max-width: 1279px) and (min-width: 1024px) {
+@media screen  and (min-width: 1024px) {
     .intro__title {
     margin-top: 92px;
     margin-bottom: 40px;
@@ -39,7 +39,7 @@
     }
 }
 
-@media screen  and (max-width: 1440px) and (min-width: 1280px) {
+@media screen and (min-width: 1280px) {
     .intro__title {
     margin-top: 92px;
     margin-bottom: 40px;
