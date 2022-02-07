@@ -6,7 +6,7 @@
    justify-content: center;
    background-image: url(../../../images/cover-trains.jpg);
    background-repeat: no-repeat;
-   background-size: cover;
+   background-size:contain;
    background-position: center;
    text-decoration: none;
    width: 100%;
